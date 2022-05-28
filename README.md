@@ -1,1 +1,1 @@
-# course-practic-js
+# course-practical-js
